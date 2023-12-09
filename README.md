@@ -1,5 +1,11 @@
 
  ## Live link : https://building-management-a5b4a.web.app/
+ Technologies I used in this website : 
+
+ 
+ [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,nextjs,mongodb)](https://skillicons.dev)
+
+
 
 > # Features :  
 ### 1. Property Display:
